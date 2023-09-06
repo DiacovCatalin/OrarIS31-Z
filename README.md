@@ -15,7 +15,7 @@ Linkul catre toate diagramele si ToR-ul proiectului
 
 Linkul catre trello
 
-- **https://trello.com/invite/oralis31z/ATTI49a12b3ed190ad058a26ce89463f393fC29A4EE6)https://trello.com/invite/oralis31z/ATTI49a12b3ed190ad058a26ce89463f393fC29A4EE6** 
+- **https://trello.com/invite/b/XdPBGlhT/ATTI56f5229dbc1e35ebc19c1fc7bd995ae05B20465D/mainroot** 
 
  
  
