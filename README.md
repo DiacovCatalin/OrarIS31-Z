@@ -4,7 +4,7 @@
 
 <h3>
 Limbajul de programare Python pe framework Flask <br>
-Tematica - Oralul scolii
+Tematica - Orarul scolii
 </h3>
 
 ## Documentatia si Workflow 💪
