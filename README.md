@@ -1,5 +1,5 @@
 <h1 align="center">
-  Oral pentru Scoala
+  Orar pentru Scoala
 </h1>
 
 <h3>
