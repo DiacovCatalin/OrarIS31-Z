@@ -17,5 +17,8 @@ Linkul catre trello
 
 - **https://trello.com/invite/b/XdPBGlhT/ATTI56f5229dbc1e35ebc19c1fc7bd995ae05B20465D/mainroot** 
 
+Linkul catre bdiagram
+
+- **https://dbdiagram.io/d/64fff99502bd1c4a5e6421ae**
  
  
