@@ -9,7 +9,7 @@ Tematica - Orarul scolii
 
 ## Documentatia si Workflow 💪
 
-Linkul catre toate diagramele si ToR-ul proiectului
+Linkul catre toate diagramele proiectului
 
 - **https://drive.google.com/file/d/1FSg-JhcUW-jN2hbVR94blbCZsrN4tvcn/view?usp=sharing**
 
@@ -21,4 +21,6 @@ Linkul catre bdiagram
 
 - **https://dbdiagram.io/d/64fff99502bd1c4a5e6421ae**
  
- 
+Linkul catre ToR-ul proiectului
+
+-**https://docs.google.com/document/d/17Gxh7v-e3UY8Upbxl8-FfZA1e-pskal4iN-RYEQZheM/edit?usp=sharing**
